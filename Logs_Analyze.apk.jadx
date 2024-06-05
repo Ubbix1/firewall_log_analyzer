@@ -1,0 +1,39 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "Logs_Analyze.apk"
+  ],
+  "treeExpansions": [
+    [
+      "Source code",
+      "Logs_Analyze.apk"
+    ],
+    [
+      "android.support.v4",
+      "Source code",
+      "Logs_Analyze.apk"
+    ],
+    [
+      "app",
+      "android.support.v4",
+      "Source code",
+      "Logs_Analyze.apk"
+    ],
+    [
+      "android.support.v4.app.INotificationSideChannel",
+      "app",
+      "android.support.v4",
+      "Source code",
+      "Logs_Analyze.apk"
+    ]
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [],
+  "cacheDir": "C:\\Users\\USER\\AppData\\Local\\skylot\\jadx\\cache\\projects\\Logs_Analyze-338ee74cc0d734bc61cca4a66e5c5516",
+  "enableLiveReload": false,
+  "searchHistory": [],
+  "pluginOptions": {}
+}
